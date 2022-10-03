@@ -1,6 +1,6 @@
 # Jake's User Page
 
-click [here](jarnke.github.io/CSE110Lab0#saved-the-best-for-last) to skip to the best part...
+click [here](https://jarnke.github.io/CSE110Lab0#saved-the-best-for-last) to skip to the best part...
 or click [here](./README.md) to jump back to the README page.
 
 ## Hello!
