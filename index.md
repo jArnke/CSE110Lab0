@@ -37,7 +37,7 @@ Whoops, I forgot a semicolon :/
 #### Saved the best for last:
 
 Check out my adorable kitten :)
-![Kitty Cat](./kitten.png)
+![Kitty Cat](./kitty.jpg)
 
 
 #### But wait there's more!
