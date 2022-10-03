@@ -18,7 +18,7 @@ I'm a third year studying Computer Science at UCSD, currently living in Irvine. 
     - [Youtube](https://www.youtube.com/channel/UCTL3tAykF16-lSBUyl4Iz-A)
   
 
-#### Programming is *_fun_*!
+#### Programming is **_fun_**!
 
 ```c++
 while(true){
