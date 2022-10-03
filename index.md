@@ -1,7 +1,7 @@
 # Jake's User Page
 
 click [here](https://jarnke.github.io/CSE110Lab0#saved-the-best-for-last) to skip to the best part...
-or click [here](README.md) to jump back to the README page.
+or click [here](docs/test.md) to jump to a WIP page if you so desire...
 
 ## Hello!
 #### A little about me:
