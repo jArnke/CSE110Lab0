@@ -1,7 +1,7 @@
 # Jake's User Page
 
-click here(####_Saved_the_best_for_last:) to skip to the best part...
-or click here(README.md) to jump back to the README page.
+click [here](https://github.com/jArnke/CSE110Lab0/blob/main/index.md#saved-the-best-for-last) to skip to the best part...
+or click [here](./README.md) to jump back to the README page.
 
 ## Hello!
 #### A little about me:
@@ -15,7 +15,7 @@ I'm a third year studying Computer Science at UCSD, currently living in Irvine. 
 - Programming
 - Gaming
 - Video Editing
-    - Youtube(https://www.youtube.com/channel/UCTL3tAykF16-lSBUyl4Iz-A)
+    - [Youtube](https://www.youtube.com/channel/UCTL3tAykF16-lSBUyl4Iz-A)
   
 
 #### Programming is *_fun_*!
